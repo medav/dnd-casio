@@ -1,0 +1,3 @@
+[submodule "mlzoo"]
+	path = mlzoo
+	url = git@github.com:medav/mlzoo.git
